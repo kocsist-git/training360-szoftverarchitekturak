@@ -1,2 +1,3 @@
-# training360-szoftverarchitekturak
- Előrehaladás ellenőrzésére készített repo
+# Előrehaladás ellenőrzése
+
+## Standalone konzolos alkalmazás (gyakorlat)
