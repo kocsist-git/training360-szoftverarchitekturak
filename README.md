@@ -12,3 +12,10 @@ dir \s
 ![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/Standalone%20konzolos%20alkalmaz%C3%A1s%20(gyakorlat)-03.JPG)
 ### Program eltávolítása
 ![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/Standalone%20konzolos%20alkalmaz%C3%A1s%20(gyakorlat)-04.JPG)
+## Standalone alkalmazás grafikus felülettel (gyakorlat)
+![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/Standalone%20alkalmaz%C3%A1s%20grafikus%20fel%C3%BClettel%20(gyakorlat)-01.JPG)
+![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/Standalone%20alkalmaz%C3%A1s%20grafikus%20fel%C3%BClettel%20(gyakorlat)-02.JPG)
+![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/Standalone%20alkalmaz%C3%A1s%20grafikus%20fel%C3%BClettel%20(gyakorlat)-03.JPG)
+![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/Standalone%20alkalmaz%C3%A1s%20grafikus%20fel%C3%BClettel%20(gyakorlat)-04.JPG)
+
+
