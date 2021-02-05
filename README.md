@@ -37,3 +37,4 @@ dir \s
 ![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/T%C3%B6bbr%C3%A9teg%C5%B1%20alkalmaz%C3%A1sok%20(gyakorlat)-02.JPG)
 ![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/T%C3%B6bbr%C3%A9teg%C5%B1%20alkalmaz%C3%A1sok%20(gyakorlat)-03.JPG)
 ![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/T%C3%B6bbr%C3%A9teg%C5%B1%20alkalmaz%C3%A1sok%20(gyakorlat)-04.JPG)
+## Webes alkalmazás (gyakorlat)
