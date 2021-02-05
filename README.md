@@ -22,3 +22,8 @@ dir \s
 ![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/K%C3%B6zponti%20adatb%C3%A1zis%20(gyakorlat)-02.JPG)
 ![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/K%C3%B6zponti%20adatb%C3%A1zis%20(gyakorlat)-03.JPG)
 ![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/K%C3%B6zponti%20adatb%C3%A1zis%20(gyakorlat)-04.JPG)
+## SQL nyelv (gyakorlat)
+![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/SQL%20nyelv%20(gyakorlat)-01.JPG)
+![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/SQL%20nyelv%20(gyakorlat)-02.JPG)
+![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/SQL%20nyelv%20(gyakorlat)-03.JPG)
+![alt text](https://github.com/kocsist-git/training360-szoftverarchitekturak/blob/main/images/SQL%20nyelv%20(gyakorlat)-04.JPG)
